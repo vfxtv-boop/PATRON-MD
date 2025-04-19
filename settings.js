@@ -1,7 +1,7 @@
 //auto presence update
-global.bankname = "MONIEPOINT"
+global.bankname = "⚕𝙲𝚞𝚛𝚜𝚒⚡"
 
-global.banknumber = "8133729715"
+global.banknumber = "242041029122"
 
 global.bankowner = "FADARE"
 
