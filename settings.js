@@ -4,7 +4,7 @@ global.banknumber = "242041029122"
 
 global.bankowner = "b0t"
 
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false//auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.wlcm = true
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
